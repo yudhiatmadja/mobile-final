@@ -1,0 +1,84 @@
+part of 'app_pages.dart';
+// DO NOT EDIT. This is code generated via package:get_cli/get_cli.dart
+
+abstract class Routes {
+  Routes._();
+  static const HOME = _Paths.HOME;
+  static const SPLASH = _Paths.SPLASH;
+  static const LOGIN = _Paths.LOGIN;
+  static const REGISTRASI = _Paths.REGISTRASI;
+  static const NOTIF_REGISTRASI = _Paths.NOTIF_REGISTRASI;
+  static const PROFILE = _Paths.PROFILE;
+  static const HOMEPAGE_A = _Paths.HOMEPAGE_A;
+  static const HOMEPAGE_U = _Paths.HOMEPAGE_U;
+  static const QUIZ = _Paths.QUIZ;
+  static const EDIT_QUIZ = _Paths.EDIT_QUIZ;
+  static const OTP_PAGE = _Paths.OTP_PAGE;
+  static const PHOTO = _Paths.PHOTO;
+  static const MODUL = _Paths.MODUL;
+  static const NOTIFIKASI = _Paths.NOTIFIKASI;
+  static const PRESENSI = _Paths.PRESENSI;
+  static const STRUKTUR = _Paths.STRUKTUR;
+  static const JADWAL = _Paths.JADWAL;
+  static const DASHBOARD = _Paths.DASHBOARD;
+  static const BIODATA = _Paths.BIODATA;
+  static const LEADERBOARD = _Paths.LEADERBOARD;
+  static const SCHEDULE = _Paths.SCHEDULE;
+  static const JADWAL_U = _Paths.JADWAL_U;
+  static const ACTIVITY = _Paths.ACTIVITY;
+  static const MODUL_U = _Paths.MODUL_U;
+  static const BACA_MODUL = _Paths.BACA_MODUL;
+  static const PERTANYAAN = _Paths.PERTANYAAN;
+  static const QUIZ_RESULT = _Paths.QUIZ_RESULT;
+  static const ATTENDANCE = _Paths.ATTENDANCE;
+  static const JABATAN = _Paths.JABATAN;
+  static const DETAIL_STRUKTUR = _Paths.DETAIL_STRUKTUR;
+  static const FOTO = _Paths.FOTO;
+  static const DOKUMENTASI = _Paths.DOKUMENTASI;
+  static const LOKASI = _Paths.LOKASI;
+  static const SPEECHTEXT = _Paths.SPEECHTEXT;
+  static const AUDIO = _Paths.AUDIO;
+  static const CONNECTION = _Paths.CONNECTION;
+  static const QUIZUSER = _Paths.QUIZUSER;
+}
+
+abstract class _Paths {
+  _Paths._();
+  static const HOME = '/home';
+  static const SPLASH = '/splash';
+  static const LOGIN = '/login';
+  static const REGISTRASI = '/registrasi';
+  static const NOTIF_REGISTRASI = '/notif-registrasi';
+  static const PROFILE = '/profile';
+  static const HOMEPAGE_A = '/homepage-a';
+  static const HOMEPAGE_U = '/homepage-u';
+  static const QUIZ = '/quiz';
+  static const EDIT_QUIZ = '/edit-quiz';
+  static const OTP_PAGE = '/otp-page';
+  static const PHOTO = '/photo';
+  static const MODUL = '/modul';
+  static const NOTIFIKASI = '/notifikasi';
+  static const PRESENSI = '/presensi';
+  static const STRUKTUR = '/struktur';
+  static const JADWAL = '/jadwal';
+  static const DASHBOARD = '/dashboard';
+  static const BIODATA = '/biodata';
+  static const LEADERBOARD = '/leaderboard';
+  static const SCHEDULE = '/schedule';
+  static const JADWAL_U = '/jadwal-u';
+  static const ACTIVITY = '/activity';
+  static const MODUL_U = '/modul-u';
+  static const BACA_MODUL = '/baca-modul';
+  static const PERTANYAAN = '/pertanyaan';
+  static const QUIZ_RESULT = '/quiz-result';
+  static const ATTENDANCE = '/attendance';
+  static const JABATAN = '/jabatan';
+  static const DETAIL_STRUKTUR = '/detail-struktur';
+  static const FOTO = '/foto';
+  static const DOKUMENTASI = '/dokumentasi';
+  static const LOKASI = '/lokasi';
+  static const SPEECHTEXT = '/speechtext';
+  static const AUDIO = '/audio';
+  static const CONNECTION = '/connection';
+  static const QUIZUSER = '/quizuser';
+}

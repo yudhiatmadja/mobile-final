@@ -1,0 +1,58 @@
+name: mobile
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.6
+  fl_chart: ^0.69.2
+  table_calendar: ^3.0.0
+  get_storage: ^2.1.1
+  change_app_package_name: ^1.4.0
+  flutter: 
+    sdk: flutter
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+  sign_in_button: ^3.2.0
+  cloud_firestore: ^4.13.3
+  # file_picker: ^8.0.0+1
+  firebase_storage: ^11.6.9
+  intl: ^0.17.0
+  image_picker: ^1.0.8
+  video_player: ^2.9.1
+  speech_to_text: 6.6.0
+  permission_handler: ^11.3.1
+  audioplayers: ^5.2.1
+  file_picker: ^5.3.2
+  geolocator: ^11.1.0
+  geocoding: ^3.0.0
+  # Untuk membuka Google Maps
+  google_maps_flutter: ^2.6.1
+  url_launcher: ^6.1.9
+  connectivity_plus: ^6.1.0
+  webview_flutter: ^4.10.0
+  http: ^1.2.2
+  firebase_messaging: ^14.6.6
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/bg.png
+    - assets/hizbul.JPG
+    - assets/foto.png
+    - assets/gambar.png
+    - assets/video1.png
+    - assets/video2.png
+    - assets/pramuka.mp3
+    - assets/STAYC - SAME SAME speed up.mp3
+
